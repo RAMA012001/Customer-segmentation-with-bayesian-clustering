@@ -3,7 +3,7 @@
 This repository demonstrates customer segmentation using the **E-commerce** dataset. The project applies both frequentist and Bayesian clustering techniques to identify distinct customer groups based on their purchasing behavior. The aim is to provide actionable insights for targeted marketing and improved business strategies.
 
 - **Data Preprocessing**: Handling missing values and standardizing features.
-- **Feature Engineering**: Creating Recency, Frequency, and Monetary (RFM) metrics to represent customer behaviors.
+- **Feature Engineering**: Creating Monetary metrics to represent customer behaviors.
 - **Frequentist Clustering**: 
   - Implementation of K-Means clustering.
   - Implementation of Gaussian Mixture Model (GMM).
@@ -13,7 +13,6 @@ This repository demonstrates customer segmentation using the **E-commerce** data
   - Employing Bayesian Gaussian Mixture Model (BGMM).
   - Implementation of AMGO (Model-Based Clustering of Categorical Time Series, Pamminger and Frühwirth-Schnatter, 2010).
   - Soft cluster assignments with associated probabilities.
-- **Cluster Visualization**: Scatter plots to interpret and compare clustering results.
 
 
 ## Installation
@@ -52,6 +51,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- Dataset: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) on Kaggle.
+- Dataset: [E-Commerce data](https://www.kaggle.com/datasets/carrie1/ecommerce-data) on Kaggle.
 - Tools: Python, Scikit-learn, Matplotlib, Seaborn.
 - Reference: Pamminger, C. and S. Frühwirth-Schnatter (2010). Model-Based Clustering of Categorical Time Series, Bayesian Analysis, 5, 345–368.
