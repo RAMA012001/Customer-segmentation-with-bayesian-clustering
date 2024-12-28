@@ -1,4 +1,4 @@
-# Corporación Favorita Customer Segmentation Analysis
+# Customer Segmentation Analysis
 
 This repository demonstrates customer segmentation using the **E-commerce** dataset. The project applies both frequentist and Bayesian clustering techniques to identify distinct customer groups based on their purchasing behavior. The aim is to provide actionable insights for targeted marketing and improved business strategies.
 
