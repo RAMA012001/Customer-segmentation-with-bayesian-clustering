@@ -1,6 +1,6 @@
 # Corporación Favorita Customer Segmentation Analysis
 
-This repository demonstrates customer segmentation using the **E-commerce** dataset. The project applies both frequentist and Bayesian clustering techniques to identify distinct customer groups based on their purchasing behavior. The aim is to provide actionable insights for targeted marketing and improved business strategies.
+This repository demonstrates customer segmentation using the **Retail Customer** dataset. The project applies both frequentist and Bayesian clustering techniques to identify distinct customer groups based on their purchasing behavior. The aim is to provide actionable insights for targeted marketing and improved business strategies.
 
 - **Data Preprocessing**: Handling missing values and standardizing features.
 - **Feature Engineering**: Creating Recency, Frequency, and Monetary (RFM) metrics to represent customer behaviors.
@@ -34,7 +34,7 @@ This repository demonstrates customer segmentation using the **E-commerce** data
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/favorita-customer-segmentation.git
+   git clone https://github.com/RAMA012001/Customer-segmentation-with-bayesian-clustering
    ```
 2. Navigate to the project directory:
    ```bash
@@ -52,6 +52,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- Dataset: [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) on Kaggle.
+- Dataset: [Retail Customer Data](https://www.kaggle.com/datasets/manishguptads/retail-customer-data-for-segmentation) on Kaggle.
 - Tools: Python, Scikit-learn, Matplotlib, Seaborn.
 - Reference: Pamminger, C. and S. Frühwirth-Schnatter (2010). Model-Based Clustering of Categorical Time Series, Bayesian Analysis, 5, 345–368.
