@@ -1,9 +1,9 @@
-# Corporación Favorita Customer Segmentation Analysis
+# Customer Segmentation Analysis
 
 This repository demonstrates customer segmentation using the **Retail Customer** dataset. The project applies both frequentist and Bayesian clustering techniques to identify distinct customer groups based on their purchasing behavior. The aim is to provide actionable insights for targeted marketing and improved business strategies.
 
 - **Data Preprocessing**: Handling missing values and standardizing features.
-- **Feature Engineering**: Creating Recency, Frequency, and Monetary (RFM) metrics to represent customer behaviors.
+- **Feature Engineering**: Creating Monetary metrics to represent customer behaviors.
 - **Frequentist Clustering**: 
   - Implementation of K-Means clustering.
   - Implementation of Gaussian Mixture Model (GMM).
@@ -13,7 +13,6 @@ This repository demonstrates customer segmentation using the **Retail Customer**
   - Employing Bayesian Gaussian Mixture Model (BGMM).
   - Implementation of AMGO (Model-Based Clustering of Categorical Time Series, Pamminger and Frühwirth-Schnatter, 2010).
   - Soft cluster assignments with associated probabilities.
-- **Cluster Visualization**: Scatter plots to interpret and compare clustering results.
 
 
 ## Installation
